@@ -1,0 +1,20 @@
+# Controls:
+
+# settings and resetings maze start and end points:
+
+clicking on any point will turn it green - that will be the starting point of the maze generation and where the pathfinder will start from.
+clicking any point again will set an end point, but if this is done before the maze generation it will have to be set again.
+
+to reset the points - click "r"
+to reset the grid - click "n"
+
+
+# generating and solving the maze:
+A starting point does not have to be set for the maze to be able to generate
+
+to run Prim's algorithm - click "p"
+to run Recursive Backtracking algorithm - click "m"
+
+# Once the starting and ending point are set:
+to run breadth-first search - click "b"
+to run depth-first search - click "d"
